@@ -45,3 +45,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer)
