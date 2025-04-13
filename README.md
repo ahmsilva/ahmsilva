@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello,%20World&section=header&reversal=false&fontColor=fffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello,%20World&section=header&reversal=false&fontColor=ffffff&animation=fadeIn)
 
 <h1 align="center">👋 Eu sou André Henrique 🌍</h1>
 
