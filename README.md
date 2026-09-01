@@ -3,9 +3,7 @@
 <h1 align="center">👋 Eu sou André Henrique 🌍</h1>
 
 <p align="center">
-  💻 Técnico em Informática formado pelo Colégio Cotemig e atualmente cursando Análise e Desenvolvimento de Sistemas na PUC Minas.<br>
-  Tenho experiência em desenvolvimento com C#, MySQL, HTML, CSS e JavaScript.<br>
-  Sou proativo, criativo e estou trabalhando para aprender e evoluir na área de tecnologia.
+ Olá, sou desenvolvedor de software especializado em back-end (Java / Spring Boot) com atuação na dti Digital para o cliente Honda. Tenho experiência prática no mapeamento de endpoints, orquestração de microsserviços e implementação de regras de negócio complexas,   atuando diretamente com APIs REST. Cursando Análise e Desenvolvimento de Sistemas pela PUC Minas, gosto muito de tecnologia, sou proativo e atualmente, estou expandindo meus conhecimentos também para o desenvolvimento mobile com Flutter.
 </p>
 
 ---
